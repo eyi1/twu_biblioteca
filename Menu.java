@@ -26,7 +26,7 @@ public class Menu {
         Map<String, Book> bookList = library.getAvailableBooks();
         //System.out.println(selection.contains("B"));
         String selection;
-//
+
         boolean bool = true;
 
         while(bool) {
